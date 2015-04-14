@@ -1,4 +1,6 @@
-#Display Tag Updater -an andriod App for updating e-ink image on NFC-WISP 1.0
+#Display Tag Updater 
+
+--an andriod App for updating e-ink image on NFC-WISP 1.0
 ---
 ### Version
 1.0
