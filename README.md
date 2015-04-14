@@ -1,4 +1,4 @@
-#Andriod App for updating e-ink image on NFC-WISP
+#Display Tag Updater -an andriod App for updating e-ink image on NFC-WISP 1.0
 ---
 ### Version
 1.0
@@ -28,5 +28,6 @@ The app is tested on Nexus S, using CyanogenMod 11 OS (Andriod Version 4.4.4.). 
 #Configuration
 ---
 1. Select **Improt project** from **File** in your andriod studio, and then navigate to the repo folder **/nfc-reader-app/** and select **andriod studio project**.
-2. The project is configured for Andriod OS 4.4 (API19) target, please modify it if you are using different target.
+2. The build and load the **app** moudule, you will see an App named as **Display Tag Updater** in your cell-phone. 
+3. The project is configured for Andriod OS 4.4 (API19) target, please modify it if you are using different target.
 
