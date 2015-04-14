@@ -9,7 +9,7 @@
 ###Tutorial & Discussion: 
 See NFC-WISP wiki: http://nfc-wisp.wikispaces.com/
 
-Please send your questions and suggestions to the **discussion board** in wiki!!!	    
+Please send your questions and suggestions to the [**discussion board**](http://nfc-wisp.wikispaces.com/wiki/messages) in wiki!!!	    
 
 ###Hardware Design repository:
 https://github.com/wisp/nfc-wisp-hw.git
