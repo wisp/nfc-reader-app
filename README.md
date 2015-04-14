@@ -27,6 +27,6 @@ The app is tested on Nexus S, using CyanogenMod 11 OS (Andriod Version 4.4.4.). 
 
 #Configuration
 ---
-1. Select **Improt project** from **File** in your andriod studio, and then navigate to the repo folder /nfc-reader-app/ and select **andriod studio project**.
-2. The project is configured for target Andriod OS 4.4 (API19), please modify it if you are using different target.
+1. Select **Improt project** from **File** in your andriod studio, and then navigate to the repo folder **/nfc-reader-app/** and select **andriod studio project**.
+2. The project is configured for Andriod OS 4.4 (API19) target, please modify it if you are using different target.
 
