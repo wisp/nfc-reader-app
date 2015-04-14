@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+
+</menu><!-- From: file:/C:/Users/yizhao/Dropbox/Disney%20Research/Github%20NFC-WISP/nfc-reader-app/andriod%20studio%20project/app/src/main/res/menu/main.xml -->

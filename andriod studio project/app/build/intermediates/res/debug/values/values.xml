@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/yizhao/Dropbox/Disney%20Research/Github%20NFC-WISP/nfc-reader-app/andriod%20studio%20project/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/yizhao/Dropbox/Disney%20Research/Github%20NFC-WISP/nfc-reader-app/andriod%20studio%20project/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Credits">UW, UMass, Intel</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Display Tag Updater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="startupDefault">Waiting for display tag</string>
+    <!-- From: file:/C:/Users/yizhao/Dropbox/Disney%20Research/Github%20NFC-WISP/nfc-reader-app/andriod%20studio%20project/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
