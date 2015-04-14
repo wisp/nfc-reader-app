@@ -1,4 +1,4 @@
-#Andriod App for updating e-ink image on NFC-WISP 1.0
+#Andriod App for updating e-ink image on NFC-WISP
 ---
 ### Version
 1.0
