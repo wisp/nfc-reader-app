@@ -1,4 +1,4 @@
-#NFC-WISP Firmware
+#NFC-WISP Andriod App for updating E-ink image
 ---
 ### Version
 1.0
