@@ -154,7 +154,7 @@ public class SendFileToWISP extends AsyncTask<byte[], Integer,  Boolean> {
             //while (this.myMain.isoDep.isConnected()) {
 			while (this.myMain.isoDep.isConnected() && (!fileTransferComplete) && (curChunkIndex < totalChunks)) {
 				// Tell user what chunk we're about to try writing now (UI update calls have to be run on UI thread)
-				final int progress = (int) ((((float) curChunkIndex) / ((float) totalChunks)) * 100.0);
+				final int progress = (int) ((((float) curChunkIndex+1) / ((float) totalChunks)) * 100.0);
 				
 				Log.d("DEBUG", "Progress: " + progress);
 				

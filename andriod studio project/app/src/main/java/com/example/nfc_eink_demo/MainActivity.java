@@ -167,8 +167,8 @@ public class MainActivity extends Activity {
 	private void addSizesToSpinner() {
 		sizeSpinner = (Spinner) findViewById(R.id.sizeSpinner);
 		List<String> list = new ArrayList<String>();
-        String large = "176 x 264";
-		String small = "96 x 200";
+        String large = "Large 2.7 inch E-ink";
+		String small = "Small 2.0 inch E-ink";
         list.add(small);
         list.add(large);
 		height = 176; // Set defaults
