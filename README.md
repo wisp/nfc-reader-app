@@ -24,7 +24,7 @@ https://github.com/wisp/nfc-wisp-fw.git
 #Introduction
 ---
 1. This is an andriod app to update image of E-ink screen on NFC-WISP tag by tapping cell-phone onto it.
-The app is tested on Nexus S, using CyanogenMod 11 OS (Andriod Version 4.4.4.). It only works with NFC-WISP 1.0 hareware and **nfc-eink-img-update-demo** firmware (see README.md in [firmware repo](https://github.com/wisp/nfc-wisp-fw.git)). 
+The app is tested on Nexus S, using CyanogenMod 11 OS (Andriod Version 4.4.4.) and Andriod 4.1.2 OS. It only works with NFC-WISP 1.0 hareware and **nfc-eink-img-update-demo** firmware (see README.md in [firmware repo](https://github.com/wisp/nfc-wisp-fw.git)). 
 The older pre-release code is taged as **"pre-release"**.
 
 
